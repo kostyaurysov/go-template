@@ -2,8 +2,8 @@ package main
 
 import (
 	"log"
-	"common"
-	"routers"
+	"github.com/kostyaurysov/go-template/common"
+	"github.com/kostyaurysov/go-template/routers"
 	"net/http"
 )
 
