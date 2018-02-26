@@ -4,9 +4,9 @@ import (
 	"encoding/json"
 	"net/http"
 
-	"../common"
-	"../model"
-	"../store"
+	"github.com/kostyaurysov/go-template/common"
+	"github.com/kostyaurysov/go-template/model"
+	"github.com/kostyaurysov/go-template/store"
 )
 
 // Register add a new User document
