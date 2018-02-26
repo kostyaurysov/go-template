@@ -5,7 +5,7 @@ import (
 	"gopkg.in/mgo.v2"
 	"gopkg.in/mgo.v2/bson"
 
-	"../model"
+	"github.com/kostyaurysov/go-template/model"
 )
 
 // UserStore provides persistence logic for "users" collection.

@@ -1,7 +1,7 @@
 package controllers
 
 import (
-	"../model"
+	"github.com/kostyaurysov/go-template/model"
 )
 
 //Models for JSON resources
